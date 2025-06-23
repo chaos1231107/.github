@@ -31,13 +31,13 @@
   </tr>
   <tr>
    <td align="center">
-      <a href="https://github.com/minjaekl" target="_blank">
+      <a href="https://github.com/minjaek" target="_blank">
         김민재
       </a>
     </td>
    <td align="center">
-      <a href="https://github.com/yurii0205" target="_blank">
-        서유리
+      <a href="https://github.com/chaos1231107" target="_blank">
+        박건우
       </a>
     </td>
    <td align="center">
